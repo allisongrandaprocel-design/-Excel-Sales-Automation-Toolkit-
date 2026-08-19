@@ -1,0 +1,8 @@
+cd melia-excel-automation
+
+git init
+git add .
+git commit -m "Primera versión: toolkit de automatización de reportes Excel"
+git branch -M main
+git remote add origin https://github.com/TU-USUARIO/melia-excel-automation.git
+git push -u origin main
